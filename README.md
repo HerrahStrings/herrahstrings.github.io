@@ -10,10 +10,10 @@ I like tile and voxel-based games, crowd-built open source projects, and the bea
 
 #### Toys and Gizmos
 
-[**HerrahStrings/Scrapped-Games**](./scrapped-games) - A small collection of jam-style games/ports I made in VB.NET in high school, as well as a 
+[**HerrahStrings/Scrapped-Games**](./scrapped-games) - A small collection of jam-style games/ports I made in VB.NET in high school, as well as one or two written in C++ in uni
 
 [**HerrahStrings/Packwiz-Packs**](./packwiz-packs) - A collection of modpacks for modern [Minecraft](https://www.minecraft.net) written using [comp500/packwiz](https://github.com/comp500/packwiz)
 
 ### Contact
 
-By email! It's first name [dot] "herrah" [dot] last name at gmail [dot] com
+By email! It's `first name [dot] "herrah" [dot] last name at gmail [dot] com`
