@@ -5,7 +5,7 @@ I like tile and voxel-based games, crowd-built open source projects, and the bea
 
 ### Projects
 
-**Florin** - An automated, workbook-independent report generation system. Fully configurable generation of PDFs or tables from a given list of inputs, with options for showing specific sheets, hiding specific rows, applying AutoFit, automatically inserting photos of a given filename, and automatically duplicating sheets to generate a PDF file with multiple pages created from the same sheet formulae. Configurations are saved into the workbook itself. Full logging + debugging support.
+**Florin** - An automated, workbook-independent report generation system for Excel written in VBA. Fully GUI-configurable generation of PDFs or tables from a given list of inputs, with options for showing specific sheets, hiding specific rows, applying AutoFit, automatically inserting photos of a given filename, and automatically duplicating sheets to generate a PDF file with multiple pages created from the same sheet formulae. Configurations are saved into the workbook itself. Full logging + debugging support.
 
 ![Screenshot of the Florin Report Generator](./img/screenshots/florin_generator.png)
 
