@@ -1,6 +1,7 @@
 # Me
 
 Hi! I'm a software engineer and I make things. (supposedly)
+
 I like crowd-built open source projects, tile and voxel-based games, and the beauty of good, well-documented automation.
 
 ## Professional Projects
@@ -9,7 +10,7 @@ I like crowd-built open source projects, tile and voxel-based games, and the bea
 
 **Sovereign VBA Library** - A \~3200 line VBA library that improves the usability of both base VB6 - improving interactions with collections, null-checking, string manipulation, and returning meaningful information from subs - and VBA with VBA-Excel and VBA-Word - including utilities such a way to specify and validate the size and shape of ranges, a refeditor that provides user feedback on the shape and validity of the range, and a range editor that supports ranges spanning multiple sheets.
 
-**Silver, Report Writer's Assistant** - A data-driven data manipulation add-in for Word using the Office.JS API. Written in node, silver utilizes [SheetJS](https://github.com/SheetJS/sheetjs) to parse CSV and XLSX files and extract useful data, which can then be output into the fields of a word template, as well as in 
+**Silver, Report Writer's Assistant** - A data-driven data manipulation add-in for Word using the Office.JS API. Written in node, silver utilizes [SheetJS](https://github.com/SheetJS/sheetjs) to parse CSV and XLSX files and extract useful data, which can then be output into the fields of a word template, as well as in readable HTML cards to assist in the filling and writing of reports. Configuration for critical fields is performed entirely through JSON.
 
 ### Toys and minor projects
 

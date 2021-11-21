@@ -1,5 +1,6 @@
 header {
   display: none !important;
+  height: 0px
 }
 
 .carousel__holder {

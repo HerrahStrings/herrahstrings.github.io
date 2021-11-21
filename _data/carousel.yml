@@ -1,10 +1,5 @@
 images: 
-  - image: /assets/img/screenshots/florin_basic.png
   - image: /assets/img/screenshots/florin_generator.png
-  - image: /assets/img/screenshots/florin_swaps.png
-  - image: /assets/img/screenshots/silver_import.png
-  - image: /assets/img/screenshots/silver_json.png
-  - image: /assets/img/screenshots/sovereign_modules.png
-  - image: /assets/img/screenshots/sovereign_vb.png
-  - image: /assets/img/screenshots/sovereign_refedit.png
-  - image: /assets/img/screenshots/sovereign_rangeedit.png
+  - image: /assets/img/screenshots/florin_settings.png
+  - image: /assets/img/screenshots/sovereign.png
+  - image: /assets/img/screenshots/silver.png
