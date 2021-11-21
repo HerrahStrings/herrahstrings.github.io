@@ -1,12 +1,12 @@
 @import "{{ site.theme }}";
 
-.inner {
+.wrapper {
   max-width: 50%;
 }
 
 header {
+  height: 0px !important;
   display: none !important;
-  height: 0px
 }
 
 .carousel__holder {
