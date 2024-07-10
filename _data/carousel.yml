@@ -1,5 +1,9 @@
 images: 
-  - image: /assets/img/screenshots/florin_generator.png
-  - image: /assets/img/screenshots/florin_settings.png
-  - image: /assets/img/screenshots/sovereign.png
-  - image: /assets/img/screenshots/silver.png
+  - image: folio/assets/img/screenshots/organisation_details.png
+  - image: folio/assets/img/screenshots/florin_generator.png
+  - image: folio/assets/img/screenshots/florin_settings.png
+  - image: folio/assets/img/screenshots/sovereign.png
+  - image: folio/assets/img/screenshots/silver.png
+  - image: folio/assets/img/screenshots/surveyor_banner.png
+  - image: folio/assets/img/screenshots/surveyor_format.png
+  - image: folio/assets/img/screenshots/switchy.png
