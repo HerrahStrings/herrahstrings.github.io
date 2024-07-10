@@ -26,6 +26,8 @@ Hi! I'm a software engineer and I make things. (supposedly)
 
 **[Switchy](https://github.com/sisby-folk/switchy)** - An addon-driven modular player profiles mod that leverages the existing ecosystem of established mods for player customizations (nicknames, skin swapping, player accessories, RPG classes, etc) to enable anything from outfit swapping to multi-character RPG-like gameplay with completely seperate inventories, locations, etc - customizable on a per-player level.
 
+... and [many more](https://modrinth.com/user/sisby-folk).
+
 ### Other
 
 [Scrapped Games](/scrapped-games) - A small, sourceless collection of jam-style games made a long time ago in VB.Net, Java, and C++
