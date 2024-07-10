@@ -24,7 +24,7 @@
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <hr>
-          <span class="credits left">Portfolio for <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+          <span class="credits left"><a href="{{ site.github.owner_url }}">{{ github profile }}</a></span>
         </div>
 		{% include carousel.html height="50" unit="%" duration="7" %}
         {{ content }}
