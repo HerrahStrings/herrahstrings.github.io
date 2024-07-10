@@ -1,5 +1,3 @@
-# Me
-
 Hi! I'm a software engineer and I make things. (supposedly)
 
 ## Professional Projects
