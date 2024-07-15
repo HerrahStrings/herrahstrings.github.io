@@ -4,31 +4,64 @@ Hi! I'm a software engineer and I make things (supposedly)
 
 ### For a SAAS Provider:
 
-**Organisation Details Page** - A React-Redux-based single page application for allowing the business-related account information for the user. Effectively a rich webform with a few complex components (country autocompleter, SMS verification flow, a few asynchronous search autocompleters).
+| **Organisation Details Page** | A single page application for editing business-related account information. |
+|:-:|---|
+
+| <img alt="organisation details page preview" src="assets/img/screenshots/organisation_details.png" width="300"/> | Typescript<br/>React<br/>Redux<br/>.NET Core<br/>REST<br/>React Hook Form | A rich webform with a few complex components.<br/>Includes address search and SMS verification.<br/> Instant validation feedback with RHF. |
+|:-:|:-:|---|
 
 ### For a Civil Engineering Firm:
 
-**[Florin Report Generator](https://github.com/sisby-folk/florin)** - A fully data-driven (Workbook-independent) automated report generation system for Excel written in VBA. Report templates are created using the full freedom of excel forumulae and then generated into PDFs or tablular output in a hands-free process configured using the GUI. Includes options for showing specific sheets, hiding specific rows, applying AutoFit, automatically inserting photos of a given filename, and automatically duplicating sheets to appear as multiple different pages in the output. Configurations are saved into the workbook itself using a bespoke key-value database implemented with named ranges and custom properties. Full logging + debugging support.
+| **[Florin Report Generator](https://github.com/sisby-folk/florin)** | A fully data-driven & workbook independent automated report generation system. |
+|:-:|---|
 
-**[Sovereign VBA Library](https://github.com/sisby-folk/sovereign)** - A \~3200 line VBA library that improves the usability of both base VB6 - improving interactions with collections, null-checking, string manipulation, and returning meaningful information from subs - and VBA with VBA-Excel and VBA-Word - including utilities such a way to specify and validate the size and shape of ranges, a refeditor that provides user feedback on the shape and validity of the range, and a range editor that supports ranges spanning multiple sheets.
+| <img alt="florin generator preview" src="assets/img/screenshots/florin_generator.png" width="300"/> <img alt="florin settings preview" src="assets/img/screenshots/florin_settings.png" width="300"/> | VBA<br/>Excel<br/>Winforms | Turns template workbooks into report generators, with PDF/Table output.<br/>Generated 300+ PDF reports from one template & input table without user intervention.<br/>Configured via GUI, saved in a bespoke key-value DB made from named ranges and custom properties.<br/>Options for sheet & row visibility, autofit, inserting images.<br/>Can temporarily duplicate sheets for >1 page per template.|
+|:-:|:-:|:-|
 
-**[Silver, Report Writer's Assistant](https://github.com/HestiMae/silver)** - A data-driven data manipulation add-in for Word using the Office.JS API. Written in node, silver utilizes [SheetJS](https://github.com/SheetJS/sheetjs) to parse CSV and XLSX files and extract useful data, which can then be output into the fields of a word template, as well as in readable HTML cards to assist in the filling and writing of reports. Configuration for critical fields is performed entirely through JSON.
+---
+
+| **[Sovereign VBA Library](https://github.com/sisby-folk/sovereign)** | A library that improves the usability of VB6, VBA, VBA-Excel, and VBA-Word. |
+|:-:|---|
+
+| <img alt="sovereign preview" src="assets/img/screenshots/sovereign.png" width="300"/> | VBA<br/>Excel<br/>Winforms<br/>Word | Improves collection handling, null-checking, string manipulation.<br/>Adds a system for meaningful sub returns.<br>Validated range data with size & shape constraints.<br/>Refeditor that provides user feedback on the shape and validity of the range.<br/>Range editor that supports ranges spanning multiple sheets. |
+|:-:|:-:|:-|
+
+---
+
+| **[Silver, Report Writer's Assistant](https://github.com/HestiMae/silver)** | A data-driven data manipulation & report-filling add-in for Word online. |
+|:-:|---|
+
+| <img alt="silver preview" src="assets/img/screenshots/silver.png" width="300"/> | Typescript<br/>Node.JS<br/>Angular.JS<br/>Office.JS<br/>JSON<br/>[SheetJS](https://github.com/SheetJS/sheetjs) | Parses CSV and XLSX files, extracts data & outputs into Word<br/>JSON-powered configuration per-field with aggregation, conditions, etc.<br/>Outputs to Word fields or HTML cards. |
+|:-:|:-:|:-|
 
 ## In my own time
 
 ### Modding the game *Minecraft* in Java
-*Most of these projects are implemented using [Mixin](https://github.com/SpongePowered/Mixin), a flexible trait and bytecode-weaving framework for Java.*<br/>
-*All of these projects are open-source - licensed as LGPLv3, as is standard for GPL minecraft mods.*
+**Minecraft** is a real-time multiplayer 3D video game, meaning all systems are heavily event-driven, and mods (implemented in the trait and bytecode-weaving framework [Mixin](https://github.com/SpongePowered/Mixin)) require both client-server networking implementations and a focus on performance.
 
-**[Surveyor](https://github.com/sisby-folk/surveyor)** - A heavy-duty framework for creating world-map and minimap mods. Scans the world as it generates, taking a thin slice for displaying on top-down maps and compressing it into a very small format still suitable for any map mod. Uniquely, allows map data to be generated completely on the client - and uses this to enable map sharing & client data if it's ever missing, thanks to an extensive system for tracking individual player exploration of the world.
+*These projects are open-source - licensed as LGPLv3, as is standard for GPL minecraft mods.*
 
-**[Switchy](https://github.com/sisby-folk/switchy)** - An addon-driven modular player profiles mod that leverages the existing ecosystem of established mods for player customizations (nicknames, skin swapping, player accessories, RPG classes, etc) to enable anything from outfit swapping to multi-character RPG-like gameplay with completely seperate inventories, locations, etc - customizable on a per-player level.
+| **[Surveyor Map Framework](https://github.com/sisby-folk/surveyor)** | A heavy-duty framework for creating world-map and minimap mods. |
+|:-:|---|
+
+| <img alt="surveyor map comparison" src="assets/img/screenshots/surveyor_banner.png" width="300"/> <img alt="surveyor save format example" src="assets/img/screenshots/surveyor_format.png" width="300"/> | Java<br/>JSON<br/>Mixin<br/>Fabric | Scans the world as it generates, creating a thin slice for top-down maps.<br/> Stores its data in a bespoke universally-applicable format.<br/>Uniquely allows map data to be generated on the server.<br/>Tracks individual player exploration of the world.<br/>Enables live map sharing & client data restoration. |
+|:-:|:-:|:-|
+
+---
+
+| **[Switchy Player Profiles](https://github.com/sisby-folk/switchy)** | An addon-driven, modular, swappable player profiles mod
+|:-:|---|
+
+| <img alt="switchy profiles preview" src="assets/img/screenshots/switchy_profiles.png" width="300"/> <img alt="switchy modules preview" src="assets/img/screenshots/switchy_modules.png" width="300"/> | Java<br/>JSON<br/>Mixin<br/>Fabric | Enables anything from outfit changes to multi-character RPG setups.<br/>Support for per-profile inventories, locations, etc.<br/>Leverages the existing ecosystem of established mods for player customizations.<br/>E.g. nicknames, skins, player accessories, RPG classes.<br/>All settings configurable on a per-player level. |
+|:-:|:-:|:-|
+
+---
 
 ... and [many more](https://modrinth.com/user/sisby-folk).
 
 ### Other
 
-[Scrapped Games](/scrapped-games) - A small, sourceless collection of jam-style games made a long time ago in VB.Net, Java, and C++
+Also see my small [scrapped games/](/scrapped-games) collection of jam-like games made a long time ago in VB.Net, Java, and C++.
 
 ## Contact
 
