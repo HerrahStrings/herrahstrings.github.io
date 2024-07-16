@@ -13,7 +13,7 @@ Hi! I'm a software engineer and I make things (supposedly)
 
 <table>
     <tr>
-        <td><img alt="organisation details page preview" src="assets/img/screenshots/organisation_details.png" width="300"/></td>
+        <td><a href="assets/img/screenshots/organisation_details.png"><img alt="organisation details page preview" src="assets/img/screenshots/organisation_details.png" width="300"/></a></td>
         <td>Typescript<br/>React<br/>Redux<br/>.NET Core<br/>REST<br/>React Hook Form</td>
         <td>A rich webform with a few complex components.<br/>Includes address search and SMS verification.<br/> Instant validation feedback with RHF.</td>
     </tr>
@@ -30,7 +30,7 @@ Hi! I'm a software engineer and I make things (supposedly)
 
 <table>
     <tr>
-        <td><img alt="florin generator preview" src="assets/img/screenshots/florin_generator.png" width="300"/> <img alt="florin settings preview" src="assets/img/screenshots/florin_settings.png" width="300"/></td>
+        <td><a href="assets/img/screenshots/florin_settings.png"><img alt="florin generator preview" src="assets/img/screenshots/florin_generator.png" width="300"/> <img alt="florin settings preview" src="assets/img/screenshots/florin_settings.png" width="300"/></a></td>
         <td>VBA<br/>Excel<br/>Winforms</td>
         <td>Turns template workbooks into report generators, with PDF/Table output.<br/>Generated 300+ PDF reports from one template & input table without user intervention.<br/>Configured via GUI, saved in a bespoke key-value DB made from named ranges and custom properties.<br/>Options for sheet & row visibility, autofit, inserting images.<br/>Can temporarily duplicate sheets for >1 page per template.</td>
     </tr>
@@ -47,7 +47,7 @@ Hi! I'm a software engineer and I make things (supposedly)
 
 <table>
     <tr>
-        <td><img alt="sovereign preview" src="assets/img/screenshots/sovereign.png" width="300"/></td>
+        <td><a href="assets/img/screenshots/sovereign.png"><img alt="sovereign preview" src="assets/img/screenshots/sovereign.png" width="300"/></a></td>
         <td>VBA<br/>Excel<br/>Winforms<br/>Word</td>
         <td>Improves collection handling, null-checking, string manipulation.<br/>Adds a system for meaningful sub returns.<br>Validated range data with size & shape constraints.<br/>Refeditor that provides user feedback on the shape and validity of the range.<br/>Range editor that supports ranges spanning multiple sheets.</td>
     </tr>
@@ -64,7 +64,7 @@ Hi! I'm a software engineer and I make things (supposedly)
 
 <table>
     <tr>
-        <td><img alt="silver preview" src="assets/img/screenshots/silver.png" width="300"/></td>
+        <td><a href="assets/img/screenshots/silver.png"><img alt="silver preview" src="assets/img/screenshots/silver.png" width="300"/></a></td>
         <td>Typescript<br/>Node.JS<br/>Angular.JS<br/>Office.JS<br/>JSON<br/><a href="https://github.com/SheetJS/sheetjs">SheetJS</a></td>
         <td>Parses CSV and XLSX files, extracts data & outputs into Word<br/>JSON-powered configuration per-field with aggregation, conditions, etc.<br/>Outputs to Word fields or HTML cards.</td>
     </tr>
@@ -86,7 +86,7 @@ Hi! I'm a software engineer and I make things (supposedly)
 
 <table>
     <tr>
-        <td><img alt="surveyor map comparison" src="assets/img/screenshots/surveyor_banner.png" width="300"/> <img alt="surveyor save format example" src="assets/img/screenshots/surveyor_format.png" width="300"/></td>
+        <td><a href="assets/img/screenshots/surveyor_format.png"><img alt="surveyor map comparison" src="assets/img/screenshots/surveyor_banner.png" width="300"/> <img alt="surveyor save format example" src="assets/img/screenshots/surveyor_format.png" width="300"/></a></td>
         <td>Java<br/>JSON<br/>Mixin<br/>Fabric</td>
         <td>Scans the world as it generates, creating a thin slice for top-down maps.<br/> Stores its data in a bespoke universally-applicable format.<br/>Uniquely allows map data to be generated on the server.<br/>Tracks individual player exploration of the world.<br/>Enables live map sharing & client data restoration.</td>
     </tr>
@@ -103,7 +103,7 @@ Hi! I'm a software engineer and I make things (supposedly)
 
 <table>
     <tr>
-        <td><img alt="switchy profiles preview" src="assets/img/screenshots/switchy_profiles.png" width="300"/> <img alt="switchy modules preview" src="assets/img/screenshots/switchy_modules.png" width="300"/></td>
+        <td><a href="assets/img/screenshots/switchy_modules.png"><img alt="switchy profiles preview" src="assets/img/screenshots/switchy_profiles.png" width="300"/> <img alt="switchy modules preview" src="assets/img/screenshots/switchy_modules.png" width="300"/></a></td>
         <td>Java<br/>JSON<br/>Mixin<br/>Fabric</td>
         <td>Enables anything from outfit changes to multi-character RPG setups.<br/>Support for per-profile inventories, locations, etc.<br/>Leverages the existing ecosystem of established mods for player customizations.<br/>E.g. nicknames, skins, player accessories, RPG classes.<br/>All settings configurable on a per-player level.</td>
     </tr>
